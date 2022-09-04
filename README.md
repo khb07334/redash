@@ -1,1 +1,1 @@
-# redash
+Docker-compose によるredash
